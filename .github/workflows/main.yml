@@ -13,5 +13,5 @@
           - uses: akhileshns/heroku-deploy@v3.12.11
             with:
               heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-              heroku_app_name: "Enter-Heroku-App-Name"
+              heroku_app_name: "morning-wave-64932"
               heroku_email: "YOUR EMAIL HERE"
